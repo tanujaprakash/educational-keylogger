@@ -23,11 +23,11 @@ This script logs keyboard input and stores the key presses along with timestamps
 
 ### Prerequisites
 
-Install `pynput`:
-```bash
+Install pynput:
+   bash
 pip install pynput
 
-### Run the script
+##  Run the script
 python keylogger.py
 
 ### Stop the logger
